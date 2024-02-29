@@ -1,4 +1,4 @@
-const Dia_chi_Dich_vu ='https://hephucvunodejs.onrender.com/';
+const Dia_chi_Dich_vu ='https://hephucvunodejs.onrender.com';
 
 const apiNguoidung = () => {
     return new Promise((Ket_qua, Loi) => {
